@@ -1,2 +1,4 @@
 # Api-rest-test
-app test vinculate other repository from practique
+app rest of testing using express from node
+
+*assistant to react-login-test repository
